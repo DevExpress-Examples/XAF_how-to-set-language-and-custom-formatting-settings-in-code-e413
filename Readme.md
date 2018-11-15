@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Global.asax.cs](./CS/Localization.Web/Global.asax.cs) (VB: [Global.asax.vb](./VB/Localization.Web/Global.asax.vb))
+* [Program.cs](./CS/Localization.Win/Program.cs) (VB: [Program.vb](./VB/Localization.Win/Program.vb))
+<!-- default file list end -->
 # How to Set Language and Custom Formatting Settings in Code
 
 
