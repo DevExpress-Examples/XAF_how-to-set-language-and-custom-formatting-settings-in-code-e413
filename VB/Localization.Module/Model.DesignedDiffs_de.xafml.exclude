@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="Windows-1252" ?>
-<Application>
-	<NavigationItems>
-		<Group ID="Default" Caption="Standardwert">
-			<Item ID="Task" Caption="Aufgabe" />
-		</Group>
-	</NavigationItems>
-</Application>
